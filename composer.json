@@ -6,11 +6,11 @@
 		"mediawiki",
 		"wiki"
 	],
-	"homepage": "https://www.mediawiki.org/",
+	"homepage": "https://www.megautilities-publicwiki.herokuapp.com",
 	"authors": [
 		{
-			"name": "MediaWiki Community",
-			"homepage": "https://www.mediawiki.org/wiki/Special:Version/Credits"
+			"name": "Mega Utilities Public Wiki",
+			"homepage": "https://www.megautilities-publicwiki.herokuapp.com"
 		}
 	],
 	"license": "GPL-2.0-or-later",
